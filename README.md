@@ -7,7 +7,7 @@ IMC é o Índice de Massa Corporal. É um cálculo simples que permite medir se 
 
 IMC - Classificação do IMC
 
-Menor que 16 - Magreza grave
+Menor que 16 - Magreza grave <br/>
 16 a menor que 17 - Magreza moderada
 17 a menor que 18,5 - Magreza leve
 18,5 a menor que 25 - Saudável
