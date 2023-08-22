@@ -19,7 +19,7 @@ Maior que 40 - Obesidade Grau III (considerada mórbida) <br/>
 
 ## // Stack utilizada
 
-**Tailwind, ReactJS, Typescript**
+**CSS, Typescript, Javascript, ReactJS**
 
 
 ## // Autores
